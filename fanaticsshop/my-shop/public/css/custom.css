@@ -1,0 +1,8 @@
+#banner-home {
+    background-image: url(../images/home/banner-home.jpg);
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    margin: 20px 0 20px 0;
+}
